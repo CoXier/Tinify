@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python mini.py $1
+python mini.py $@
